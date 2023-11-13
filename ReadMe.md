@@ -1,0 +1,1 @@
+Animation carousel non responsive
